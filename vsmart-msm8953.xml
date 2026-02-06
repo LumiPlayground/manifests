@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/vsmart/casuarina" name="LumiPlayground/android_device_vsmart_casuarina" revision="lineage-22.2" remote="github" />
+  <project path="device/vsmart/pine" name="LumiPlayground/android_device_vsmart_pine" revision="lineage-22.2" remote="github" />
+  <project path="device/vsmart/msm8953-common" name="LumiPlayground/android_device_vsmart_msm8953-common" revision="lineage-22.2" remote="github" />
+  <project path="kernel/vsmart/msm8953" name="LumiPlayground/android_kernel_vsmart_msm8953" revision="lineage-22.2" remote="github" />
+  <project path="vendor/vsmart/casuarina" name="LumiPlayground/proprietary_vendor_vsmart_casuarina" revision="lineage-22.2" remote="github" />
+  <project path="vendor/vsmart/pine" name="LumiPlayground/proprietary_vendor_vsmart_pine" revision="lineage-22.2" remote="github" />
+  <project path="vendor/vsmart/msm8953-common" name="LumiPlayground/proprietary_vendor_vsmart_msm8953-common" revision="lineage-22.2" remote="github" />
+</manifest>
